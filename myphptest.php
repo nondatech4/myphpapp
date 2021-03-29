@@ -2,10 +2,10 @@
 <html>
 <body>
 
-<h1>This is my PHP Test Application</h1>
+<h1>This is nondatech class4 PHP Test Application</h1>
 
 <?php
-echo "Version: 200";
+echo "the latest verion of our app is Version: 2";
 ?>
 
 </body>
